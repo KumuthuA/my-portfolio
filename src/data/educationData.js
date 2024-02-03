@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'University of Moratuwa',
+        course: 'BSC. ENG(HONS) SPECIALIZED IN COMPUTER SCIENCE AND ENGINEERING',
+        startYear: '2020',
+        endYear: 'Present'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Rathnavali Balika Vidyalaya, Gampaha',
+        course: 'SECONDARY EDUCATION',
+        startYear: '2010',
+        endYear: '2018'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
+        institution: 'Wisdom Business Academy',
+        course: 'CIMA',
         startYear: '2019',
-        endYear: 'Present'
+        endYear: '2020'
     },
 ]

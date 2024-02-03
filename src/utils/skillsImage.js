@@ -72,6 +72,9 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
+import weaviate from '../assets/svg/skills/weaviate.png'
+import springboot from '../assets/svg/skills/spring.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
 
@@ -227,6 +230,12 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'springboot':
+            return springboot;
+        case 'weaviate':
+            return weaviate;
+        case 'node js':
+            return nodejs;
         default:
             break;
     }

@@ -1,11 +1,11 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
+import one from '../assets/svg/projects/one.png'
+import two from '../assets/svg/projects/two.png'
 import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+import four from '../assets/svg/projects/four.png'
+import five from '../assets/svg/projects/seven.svg'
+import six from '../assets/svg/projects/six.png'
+import seven from '../assets/svg/projects/seven.png'
+import eight from '../assets/svg/projects/eight.png'
 
 
 export const projectsData = [
@@ -52,7 +52,7 @@ export const projectsData = [
         tags: ['HTML', 'CSS', 'React', 'Node.js', 'MySQL'],
         code: 'https://github.com/neth99-coder/HRM-System',
         demo: '',
-        image: seven
+        image: five
     },
     {
         id: 6,

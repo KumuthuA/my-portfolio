@@ -1,10 +1,10 @@
-import resume from '../assets/pdf/CV_Kumuthu.pdf'
-import myimage from '../assets/png/me.jpg'
+import resume from '../assets/pdf/CV_Kumuthu_v2.pdf'
+import myimage from '../assets/png/me2.jpg'
 
 export const headerData = {
     name: 'Kumuthu Athukorala',
-    title: "Backend-ML Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    title: "Software Engineer",
+    desciption:"Empowering growth through enthusiastic learning and collaborative leadership",
     image: myimage,
     resumePdf: resume
 }

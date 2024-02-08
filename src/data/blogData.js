@@ -1,11 +1,11 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
+        title: 'BUILDING A SIMPLE GAME WITH PYGAME IN PYTHON',
+        description: 'Here, we’ll dive into creating a classic Snake game, using Python and the Pygame library. We’ll call it PySnake.',
+        date: 'Feb 05, 2024',
         image: '',
-        url: ''
+        url: 'https://medium.com/@kumuthuathukorala/building-a-simple-snake-game-with-pygame-in-python-228a54c84c5f'
     },
     // {
     //     id: 2,

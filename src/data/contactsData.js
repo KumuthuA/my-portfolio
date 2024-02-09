@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+94 71 625 5080',
     address: 'Colombo, Sri Lanka',
 
-    sheetAPI: 'https://docs.google.com/spreadsheets/d/16OIwAgPNKuPhd8I-m34UAcN63VRVSoCtvUvXDFgOxz8/edit#gid=0'
+    sheetAPI: 'https://sheetdb.io/api/v1/qgrr9mdeuh676'
 }
